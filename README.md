@@ -1,6 +1,6 @@
 # phonikud-rs
 
-Add diacritics to Hebrew text along with phonetic marks
+Add diacritics to Hebrew text along with phonetic marks in _Rust_
 
 Enhanced model of [Dicta model](https://huggingface.co/dicta-il/dictabert-large-char-menaked) 🤗
 
