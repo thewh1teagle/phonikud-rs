@@ -1,0 +1,11 @@
+[package]
+name = "phonikud-rs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.99"
+ndarray = "0.16.1"
+ort =  {version = "2.0.0-rc.10", features = ["ndarray"]}
+tokenizers = "0.22.0"
+regex = "1.0"
