@@ -2,9 +2,7 @@
 
 Add diacritics to Hebrew text along with phonetic marks.
 
-Rust port of the [phonikud](https://github.com/thewh1teagle/phonikud) project.
-
-Enhanced model of [Dicta model](https://huggingface.co/dicta-il/dictabert-large-char-menaked) 🤗
+Rust port of the [phonikud](https://github.com/thewh1teagle/phonikud) project 🤗
 
 ## Features
 
